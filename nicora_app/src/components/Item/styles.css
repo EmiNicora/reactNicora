@@ -1,0 +1,24 @@
+.padre-flex {
+	display: flex;
+	background-color: none;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-evenly;
+	height: auto;
+}
+
+.card1 {
+	position: relative;
+	width: 25%;
+	margin: 5;
+	height: auto;
+
+
+}
+.tituloProducto{
+color: #B39048;
+}
+
+.colorDescripcion{
+	color: white;
+}
